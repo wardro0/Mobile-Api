@@ -1,0 +1,4 @@
+com\ipkras\controller\insertToGlocalTables.class
+com\ipkras\api\HelloServlet.class
+com\ipkras\api\PostConsultation.class
+com\ipkras\dao\ConnectionFactory.class
